@@ -1,7 +1,7 @@
 # Random Password Generator
 import random
 
-lower = "abcdefghijklmnopqrstuvwXyz"
+lower = "abcdefghijklmnopqrstuvwxyz"
 upper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 numbers = "0123456789"
 symbols = "[]{}();*-/_"
